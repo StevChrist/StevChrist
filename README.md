@@ -12,8 +12,8 @@ Hi, I’m Steven Immanuel C Girsang, a Data Science student at Telkom University
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StevChrist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=StevChrist&theme=dark&hide_border=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=StevChrist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=StevChrist&theme=dark&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevChrist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
