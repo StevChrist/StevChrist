@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, I’m Steven Immanuel C Girsang, a Data Science student at Telkom University Bandung with a passion for technology and design. I’m fascinated by how platforms like Spotify and YouTube predict user preferences, which led me to explore Data Science and coding.<br>Currently, I’m learning Dart, R, and other languages while improving my skills in Python, JavaScript, HTML, CSS, SQL, and more. My goal is to work in the Data Science field after graduation.<br>I enjoy playing FPS and multiplayer games, coding, music, watching, and editing.<br>⚡ Fun fact about me : I can sleep for more than 16 hours straight!
+Hello, My name is Steven Immanuel C. Girsang, <br />
+I am a Data Science undergraduate student at Telkom University, Bandung.
+I am passionate about technology and fascinated by how data can uncover insights and solve real-world problems. This interest led me to pursue data science, focusing on areas like machine learning and data analysis.
+I have been involved in student organizations, where I developed leadership, teamwork, and communication skills.
+<br />
+Outside of academics, I enjoy gaming, listening to music, watching movies, reading manga, playing music, photography, and video editing/design.
+<br />
+<br />
+💡<strong> Fun fact:</strong> I can sleep for over 13 hours and I am afraid of heights.
 
 
 ## 🌐 Socials:
