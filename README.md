@@ -17,8 +17,8 @@ Outside of academics, I enjoy gaming, listening to music, watching movies, readi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=StevChrist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=StevChrist&theme=dark&hide_border=false)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevChrist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=StevChrist&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=StevChrist&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=StevChrist&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
